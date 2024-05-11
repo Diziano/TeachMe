@@ -5,7 +5,7 @@
 # TeachMe - Chatbot Professor de Inglês
 
 ## Descrição
-TeachMe é um chatbot desenvolvido em Python utilizando a biblioteca Gemini AI, que funciona como um professor de inglês interativo. Este projeto foi desenvolvido durante o evento online da Alura - Imersão AI, com o objetivo de auxiliar alunos no aprendizado da língua inglesa através da geração de exercícios e interações personalizadas.
+TeachMe é um chatbot desenvolvido em Python utilizando a API da Gemini AI, que funciona como um professor de inglês interativo. Este projeto foi desenvolvido durante o evento online da Alura - Imersão IA_, com o objetivo de auxiliar alunos no aprendizado da língua inglesa através da geração de exercícios e interações personalizadas.
 
 ## Funcionalidades
 - Geração de exercícios de compreensão de texto e tradução.
@@ -39,4 +39,4 @@ Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licens
 
 ---
 
-Este projeto foi desenvolvido durante o evento online da Alura - Imersão AI. Obrigado por usar o TeachMe! Se tiver alguma dúvida ou sugestão, entre em contato conosco.
+Este projeto foi desenvolvido durante o evento online da Alura - Imersão IA_. Obrigado por usar o TeachMe! Se tiver alguma dúvida ou sugestão, entre em contato conosco.
