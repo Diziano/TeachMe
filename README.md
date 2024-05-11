@@ -17,7 +17,7 @@ TeachMe é um chatbot desenvolvido em Python utilizando a API da Gemini AI, que 
 - Google Colab (opcional, mas recomendado para uma execução fácil e rápida)
 
 ## Executando o Projeto
-1. Clone o repositório para sua máquina local:
+1. Abra o arquivo `TeachMe_GeminiAITeacher.ipynb` com o Google Collab.
 
 ## Contribuindo
 Contribuições são bem-vindas! Se você deseja contribuir para o projeto, por favor, siga estas etapas:
