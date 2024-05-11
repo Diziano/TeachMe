@@ -1,3 +1,6 @@
+<h1 align="center">
+    <img alt="ImersaoIA" title="ImersaoIA" src="imersaoIA.png" width="100%" />
+</h1>
 
 # TeachMe - Chatbot Professor de Inglês
 
